@@ -1,35 +1,38 @@
-# grouptwo
+# NodeMaster
 
-music = BeepBox https://www.beepbox.co/
+## About
+This web application is a game. 
 
-css = NES.css https://nostalgic-css.github.io/NES.css/
+## Contributors
+[Michael Robil](https://github.com/michaelrobil)
+[Austin Williams](https://github.com/auzzie13)
+[John Humbracht](https://github.com/jhumbrac)
+[Alek](https://github.com/Hi-It-Sky/)
+[Zack White](https://github.com/White2993)
 
-api = DnD 5th edition https://www.dnd5eapi.co/
+## Technology
+- HTML5, CSS, Bootstrap
+- Javascript, jQuery, Ajax
+- Node, Axios, Express
+- Handlbars
+- MySQL, Sequelize
+- Heroku
+- Music: BeepBox https://www.beepbox.co/
+- CSS: NES.css https://nostalgic-css.github.io/NES.css/
+- API: DnD 5th edition https://www.dnd5eapi.co/
+- Art: DnD Beyond https://www.dndbeyond.com/monsters
 
-art = DnD Beyond https://www.dndbeyond.com/monsters
-    = Legend of Grimrock stills from Google
-    
-CONTRIBUTORS:
+## License
+MIT License
 
-Michael Robil - https://github.com/michaelrobil
-Austin Williams - https://github.com/auzzie13
-John Humbracht - https://github.com/jhumbrac
-Alek - https://github.com/Hi-It-Sky/
-Zack White - https://github.com/White2993
+## How to use this code
+Visit the app site at Heroku below. If you wish to copy and edit the code, you will need to run ```npm install``` to retrieve the necessary dependencies.
+- Application Site: https://nameless-journey-28810.herokuapp.com/
 
-TECH AND PROGRAMS USED:
+## Contact
 
-Javascript, Handlbars, Heroku, DnD Beyond API, MySQL, HMTL, CSS, JQuery, Linting, API and HTML Routes.
+- e-mail: michaelrobil@my-dev.online
+- LinkedIn: https://www.linkedin.com/in/michael-s-robil-60499869/
 
-WORK DISTRIBUTION:
 
-Zack White- Story, Credits, Dice Logic, Combat System Collab, Research, General Collaboration
-
-Michael Robil- Database, Routes, Create and Import character and monsters data
-
-Austin Williams- random monster function, stats function to pull for fight, point research person
-
-Alek- Culled broken api, downloaded images for monsters, created start screen image.
-
-John Humbracht- front-end, game logic, attack mechanisms, role mechanics, edited art, composed soundtrack, interface, etc. 
 
