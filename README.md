@@ -3,6 +3,9 @@
 ## About
 This web application is a game. 
 
+## Game ScreenShot
+![node](https://user-images.githubusercontent.com/56613553/74095827-affaa400-4abb-11ea-9b90-10d3e4ab3121.png)
+
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
 [Austin Williams](https://github.com/auzzie13)
