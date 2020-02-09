@@ -4,7 +4,7 @@
 This web application is a game. 
 
 ## Game ScreenShot
-![node](https://user-images.githubusercontent.com/56613553/74095827-affaa400-4abb-11ea-9b90-10d3e4ab3121.png)
+![Node-master](https://user-images.githubusercontent.com/56613553/74110401-dff48680-4b51-11ea-8681-374c82d35d02.png)
 
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
